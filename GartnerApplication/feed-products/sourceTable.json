@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Bugs & Issue Tracking,Development Tools",
+    "Categories": [
+      "Bugs & Issue Tracking",
+      "Development Tools"
+    ],
+    "Twitter": "github"
+  },
+  {
+    "Name": "Instant Messaging & Chat,Web Collaboration,Productivity",
+    "Categories": [
+      "Instant Messaging & Chat",
+      "Web Collaboration",
+      "Productivity"
+    ],
+    "Twitter": "slackhq"
+  },
+  {
+    "Name": "Project Management,Project Collaboration,Development Tools",
+    "Categories": [
+      "Project Management",
+      "Project Collaboration",
+      "Development Tools"
+    ],
+    "Twitter": "jira"
+  }
+]
