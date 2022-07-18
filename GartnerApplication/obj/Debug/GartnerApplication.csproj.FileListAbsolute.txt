@@ -76,7 +76,6 @@ C:\Hitesh\practice\GartnerProject\GartnerApplication\bin\Debug\System.Runtime.Co
 C:\Hitesh\practice\GartnerProject\GartnerApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Hitesh\practice\GartnerProject\GartnerApplication\bin\Debug\System.ValueTuple.xml
 C:\Hitesh\practice\GartnerProject\GartnerApplication\bin\Debug\YamlDotNet.xml
-C:\Hitesh\practice\GartnerProject\GartnerApplication\obj\Debug\GartnerApplication.csprojAssemblyReference.cache
 C:\Hitesh\practice\GartnerProject\GartnerApplication\obj\Debug\GartnerApplication.csproj.CopyComplete
 C:\Hitesh\practice\GartnerProject\GartnerApplication\obj\Debug\GartnerApplication.exe
 C:\Hitesh\practice\GartnerProject\GartnerApplication\obj\Debug\GartnerApplication.pdb
